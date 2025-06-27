@@ -7,7 +7,7 @@ export default function NuCycleLandingPage() {
       <header className="flex justify-between items-center px-6 py-4 shadow-sm bg-neutral-50">
         <div className="flex items-center gap-2">
           <img src="/logo.png" alt="NuCycle Logo" className="h-8" />
-          <h1 className="text-xl font-bold">NuCycle Energy</h1>
+          <h1 className="text-xl font-bold">NuCycle Energy 🚀</h1>
         </div>
         <nav className="space-x-6 text-sm font-medium">
           <a href="#about">About</a>
